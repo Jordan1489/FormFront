@@ -1,0 +1,21 @@
+.form-contain{
+
+    background-color: rgb(151, 151, 170);
+    padding: 30px;
+    box-shadow: 10px 0px 10px 0px;
+    width: 50%;
+margin-top: 50px;
+font-family: Arial, Helvetica, sans-serif;
+margin-left: 30%;
+    
+}
+
+
+
+.btn {
+    color: #fff;
+    background-color: #1d7180 ;
+    border-color: #1d7180; 
+}
+
+
